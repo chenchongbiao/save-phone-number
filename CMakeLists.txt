@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1.0)  # 指定cmake最低版本
-project(example1                       # 指定项目名称, 版本, 语言 cxx就是c++
+project(main                           # 指定项目名称, 版本, 语言 cxx就是c++
     VERSION 1.0.0 
     LANGUAGES C
 ) 
